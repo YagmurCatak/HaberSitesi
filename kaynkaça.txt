@@ -1,0 +1,44 @@
+
+Fragment Olusturma  ;
+
+https://www.youtube.com/watch?v=Cmx6bYlMhXo
+https://www.youtube.com/watch?v=pGs5UUF4dS0
+https://www.mobilhanem.com/android-listview-fragment-telefon-rehberi-uygulamasi/
+
+listview kullanimi;
+
+https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-201/listview-kullanimi
+
+
+web servis ;
+https://www.youtube.com/watch?v=pUzJ7sn64LA&list=PLG_QjCllP5VteQI9pS8mhr6s3-7zFQwOY&index=1
+
+sql kurulumu ;
+https://www.youtube.com/watch?v=HRejBl0KZp0
+
+soap- android baglantisi;
+http://mesutpiskin.com/blog/android-ile-soap-web-servis-kullanimi.html
+
+http://www.oguzozkeroglu.com/android-json-parse-islemleri-1/
+https://faideall.wordpress.com/2013/12/21/android-ile-rest-servis-cagirma-ve-json-kullanmacall-rest-web-service-and-use-json-data/
+
+http://www.oguzozkeroglu.com/android-json-parse-islemleri-1/
+https://www.youtube.com/watch?v=nYUiSrMgBgA
+https://www.youtube.com/watch?v=Gyaay7OTy-w
+https://stackoverflow.com/questions/38593371/how-can-i-make-a-simple-http-request-in-mainactivity-java-android-studio
+https://www.adilkaraoz.com/2013/03/android-os-networkonmainthreadexception-hatasini-gidermek/
+
+
+https://www.androidevreni.com/android-te-json-veri-ile-calismak/
+https://gelecegiyazanlar.turkcell.com.tr/konu/android/egitim/android-201/projeye-kutuphane-eklemek
+https://stackoverflow.com/questions/9145667/how-to-post-json-to-a-server-using-c
+http://umutonur.com/json-kullanimi-android-icin/
+
+https://www.youtube.com/watch?v=PqrfmAmgn3U
+
+https://medium.com/@HasibeZafer/android-material-design-navigationdrawer-8437bf062040 
+
+https://www.youtube.com/watch?v=8GgkSKcJEO4
+https://uzmanim.net/soru/c-string-veriyi-json-turune-donusturme/6042
+https://stackoverflow.com/questions/2893194/restful-http-delete-method-in-net
+

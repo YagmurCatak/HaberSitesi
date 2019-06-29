@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_gundem"
+            android:title="Gündem" />
+        <item
+            android:id="@+id/nav_spor"
+            android:title="Spor" />
+        <item
+            android:id="@+id/nav_egitim"
+            android:title="Eğitim" />
+        <item
+            android:id="@+id/nav_ekonomi"
+            android:title="Ekonomi" />
+    </group>
+
+
+</menu>

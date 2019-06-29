@@ -1,0 +1,26 @@
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\bin\Debug\HaberSitesi.exe.config
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\bin\Debug\HaberSitesi.exe
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\bin\Debug\HaberSitesi.pdb
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csprojAssemblyReference.cache
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.Form1.resources
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.Properties.Resources.resources
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csproj.GenerateResource.cache
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csproj.CoreCompileInputs.cache
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.exe
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.pdb
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yagmur\Desktop\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csproj.CopyComplete
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\bin\Debug\HaberSitesi.exe.config
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\bin\Debug\HaberSitesi.exe
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\bin\Debug\HaberSitesi.pdb
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\bin\Debug\Newtonsoft.Json.dll
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\bin\Debug\Newtonsoft.Json.xml
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csprojAssemblyReference.cache
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.Form1.resources
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.Properties.Resources.resources
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csproj.GenerateResource.cache
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csproj.CoreCompileInputs.cache
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.csproj.CopyComplete
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.exe
+E:\Yaz lab 2\2.proje\HaberSitesi\HaberSitesi\obj\Debug\HaberSitesi.pdb
